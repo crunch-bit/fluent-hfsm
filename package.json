@@ -1,6 +1,6 @@
 {
   "name": "com.crunchbit.fluenthfsm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Fluent HFSM",
   "description": "A fluent API for building Hierarchical Finite State Machines in Unity with debug visualization tools.",
   "unity": "2020.3",
